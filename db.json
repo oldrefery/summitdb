@@ -1,0 +1,546 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Registration",
+      "description": "Pick up your name badge and gift bag",
+      "startTime": "2024-05-16T12:00:00Z",
+      "endTime": "2024-05-16T17:00:00Z",
+      "locationId": "1",
+      "speakerIds": [],
+      "date": "2024-05-16",
+      "section": "Thursday, May 16",
+      "duration": "5 hrs"
+    },
+    {
+      "id": "2",
+      "title": "Welcome to London Pub Night!",
+      "description": "Join us for a pint (or two).\n\nDirections: [100 Holland Park Avenue London Greater, London W11 4UA, United Kingdom](https://maps.app.goo.gl/ZRMisKXX4CGX5tDy5)",
+      "startTime": "2024-05-16T18:00:00Z",
+      "endTime": "2024-05-16T22:00:00Z",
+      "locationId": "2",
+      "speakerIds": [],
+      "date": "2024-05-16",
+      "section": "Thursday, May 16",
+      "duration": "4 hrs"
+    },
+    {
+      "id": "3",
+      "title": "British Museum Tour with Private Guide",
+      "description": "A tour of the **British Museum** with a private guide. Meet your guide, **Gary**, in the Hilton Kensington Lobby at 9am.\n      \nAfter the tour, we all arrange for lunch and return back to the hotel",
+      "startTime": "2024-05-17T09:00:00Z",
+      "endTime": "2024-05-17T13:00:00Z",
+      "locationId": "3",
+      "speakerIds": [],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day (Guests)",
+      "duration": "4 hrs"
+    },
+    {
+      "id": "4",
+      "title": "Welcome - Opening Remarks",
+      "description": "Welcome: Modernize and Thrive: A Summit exploring emerging innovations that promise to shape business across industries",
+      "startTime": "2024-05-17T09:00:00Z",
+      "endTime": "2024-05-17T09:30:00Z",
+      "locationId": "1",
+      "speakerIds": [
+        "1",
+        "2"
+      ],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "30 mins"
+    },
+    {
+      "id": "5",
+      "title": "AI & Cloud",
+      "description": "Session on AI and Cloud technologies",
+      "startTime": "2024-05-17T09:30:00Z",
+      "endTime": "2024-05-17T10:00:00Z",
+      "locationId": "1",
+      "speakerIds": [
+        "3"
+      ],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "30 mins"
+    },
+    {
+      "id": "6",
+      "title": "Healthcare",
+      "description": "How technology has improved delivery of care, tracking of care, patient engagement ands what's next as we embark on amazing new journers with AI.\n\nModerator: Rafic Habib\n\nPanelists: Dr. Rozelle Kane, Dr. Qi Li, Mr. Anatoly Postilnik, Ms. Corinne DePue",
+      "startTime": "2024-05-17T10:00:00Z",
+      "endTime": "2024-05-17T11:00:00Z",
+      "locationId": "1",
+      "speakerIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "60 mins"
+    },
+    {
+      "id": "7",
+      "title": "Morning Break",
+      "description": "Break before the next session",
+      "startTime": "2024-05-17T11:00:00Z",
+      "endTime": "2024-05-17T11:15:00Z",
+      "locationId": "1",
+      "speakerIds": [],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "15 mins"
+    },
+    {
+      "id": "8",
+      "title": "Keynote - 'SUPERCREATIVITY': Accelerating Innovation in the Digital Era",
+      "description": "Keynote session on supercreativity",
+      "startTime": "2024-05-17T11:15:00Z",
+      "endTime": "2024-05-17T12:15:00Z",
+      "locationId": "1",
+      "speakerIds": [
+        "5"
+      ],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "60 mins"
+    },
+    {
+      "id": "9",
+      "title": "Lunch",
+      "description": "Lunch break",
+      "startTime": "2024-05-17T12:15:00Z",
+      "endTime": "2024-05-17T13:15:00Z",
+      "locationId": "1",
+      "speakerIds": [],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "60 mins"
+    },
+    {
+      "id": "10",
+      "title": "GenAI",
+      "description": "Discussion on generative AI",
+      "startTime": "2024-05-17T13:15:00Z",
+      "endTime": "2024-05-17T13:45:00Z",
+      "locationId": "1",
+      "speakerIds": [
+        "6"
+      ],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "30 mins"
+    },
+    {
+      "id": "11",
+      "title": "Digital Experience",
+      "description": "Session on enhancing digital experiences",
+      "startTime": "2024-05-17T13:45:00Z",
+      "endTime": "2024-05-17T14:45:00Z",
+      "locationId": "1",
+      "speakerIds": [
+        "7"
+      ],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "60 mins"
+    },
+    {
+      "id": "12",
+      "title": "Afternoon Break",
+      "description": "Short break before the next session",
+      "startTime": "2024-05-17T14:45:00Z",
+      "endTime": "2024-05-17T15:00:00Z",
+      "locationId": "1",
+      "speakerIds": [],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "15 mins"
+    },
+    {
+      "id": "13",
+      "title": "Real Estate",
+      "description": "Discussion on real estate market trends",
+      "startTime": "2024-05-17T15:00:00Z",
+      "endTime": "2024-05-17T15:30:00Z",
+      "locationId": "1",
+      "speakerIds": [
+        "8"
+      ],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "30 mins"
+    },
+    {
+      "id": "14",
+      "title": "FLS Hall of Fame",
+      "description": "Recognition of notable achievements",
+      "startTime": "2024-05-17T15:30:00Z",
+      "endTime": "2024-05-17T16:00:00Z",
+      "locationId": "1",
+      "speakerIds": [],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Day",
+      "duration": "30 mins"
+    },
+    {
+      "id": "15",
+      "title": "Departure from the Hilton",
+      "description": "Departure event from the Hilton Kensington",
+      "startTime": "2024-05-17T17:15:00Z",
+      "endTime": "2024-05-17T17:30:00Z",
+      "locationId": "1",
+      "speakerIds": [],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Evening"
+    },
+    {
+      "id": "16",
+      "title": "Evening at the Tower",
+      "description": "Evening event at the Tower of London",
+      "startTime": "2024-05-17T18:30:00Z",
+      "endTime": "2024-05-17T22:30:00Z",
+      "locationId": "4",
+      "speakerIds": [],
+      "date": "2024-05-17",
+      "section": "Friday, May 17 Evening",
+      "duration": "4 hrs"
+    },
+    {
+      "id": "17",
+      "title": "Bus Tour of London",
+      "description": "Bus tour of London with a guide",
+      "startTime": "2024-05-18T10:00:00Z",
+      "endTime": "2024-05-18T13:00:00Z",
+      "locationId": "5",
+      "speakerIds": [],
+      "date": "2024-05-18",
+      "section": "Saturday, May 18",
+      "duration": "3 hrs"
+    },
+    {
+      "id": "18",
+      "title": "Lunch at the Admiralty",
+      "description": "Lunch at the Admiralty",
+      "startTime": "2024-05-18T13:00:00Z",
+      "endTime": "2024-05-18T14:00:00Z",
+      "locationId": "6",
+      "speakerIds": [],
+      "date": "2024-05-18",
+      "section": "Saturday, May 18",
+      "duration": "60 mins"
+    },
+    {
+      "id": "19",
+      "title": "Walking Tours",
+      "description": "Walking tour starting from The Admiralty",
+      "startTime": "2024-05-18T14:00:00Z",
+      "endTime": "2024-05-18T15:00:00Z",
+      "locationId": "6",
+      "speakerIds": [],
+      "date": "2024-05-18",
+      "section": "Saturday, May 18"
+    },
+    {
+      "id": "20",
+      "title": "Departure Day",
+      "description": "Final day of the summit",
+      "startTime": "2024-05-19T09:00:00Z",
+      "endTime": "2024-05-19T10:00:00Z",
+      "locationId": "1",
+      "speakerIds": [],
+      "date": "2024-05-19",
+      "section": "Sunday, May 19"
+    }
+  ],
+  "speakers": [
+    {
+      "id": "1",
+      "name": "Nick Puntikov",
+      "title": "CEO",
+      "company": "First Line Software",
+      "bio": "Nick Puntikov has over 20 years of experience in technology.",
+      "photoUrl": ""
+    },
+    {
+      "id": "2",
+      "name": "James Taylor",
+      "title": "",
+      "company": "",
+      "bio": "James Taylor, M.B.A. F.R.S.A. is an award-winning speaker and internationally recognized leader in creativity and innovation. For over 20 years, he has been teaching entrepreneurs how to build innovative organizations and design the creative life the desire.",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/30.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Dr. Geraint Lewis",
+      "title": "Director of Population Health",
+      "company": "Microsoft",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/23.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Dr. Rozelle Kane",
+      "title": "",
+      "company": "",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/female/23.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Dr. Qi Li",
+      "title": "Physician Executive, Product Innovation",
+      "company": "InterSystems",
+      "bio": "Dr. Q. Grill specializes in cloud-based infrastructure and solutions.",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/57.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Anatoly Postilnik",
+      "title": "Managing Director",
+      "company": "Clinovera",
+      "bio": "Anatoly Postilnik specializes in cloud-based infrastructure and solutions.",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/37.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Corinne DePue",
+      "title": "VP&S | Director, Transformation - People & Organization Development",
+      "company": "Columbia University",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/female/37.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Pavel  Khodalev",
+      "title": "SVP",
+      "company": "First Line Software",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/38.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Deane Barker",
+      "title": "Global Director of Content",
+      "company": "Optimizely",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/39.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Alex King",
+      "title": "Head of Delivery",
+      "company": "UNRVLD",
+      "bio": "",
+      "photoUrl": ""
+    },
+    {
+      "id": "13",
+      "name": "Rafic Habib",
+      "title": "Managing Director - Australia/New Zealand",
+      "company": "First Line Software",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/40.jpg"
+    },
+    {
+      "id": "99",
+      "name": "Gennady Nosenko",
+      "title": "Managing Director",
+      "company": "Mobile Department",
+      "bio": "Gennady Nosenko specializes in mobile solutions.",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/20.jpg"
+    }
+  ],
+  "resources": [
+    {
+      "id": "1",
+      "name": "Hilton Kensington Hotel Location",
+      "link": "https://www.rome2rio.com/map/London-Heathrow-Airport-LHR/Hilton-London-Kensington-Hotel"
+    },
+    {
+      "id": "2",
+      "name": "Heathrow Airport to Hilton Kensington",
+      "link": "https://www.rome2rio.com/map/London-Heathrow-Airport-LHR/Hilton-London-Kensington-Hotel"
+    },
+    {
+      "id": "3",
+      "name": "Gatwick Airport to Hilton Kensington",
+      "link": "https://www.rome2rio.com/map/London-Gatwick-Airport-LGW/Hilton-London-Kensington-Hotel"
+    },
+    {
+      "id": "4",
+      "name": "Castle Holland Park Pub",
+      "link": "https://maps.app.goo.gl/RhBC3Bo5bKN5HcXr5?g_st=com.google.maps.preview.copy"
+    },
+    {
+      "id": "5",
+      "name": "London Weather",
+      "description": "10-day forecast for London, UK",
+      "link": "https://weather.com/weather/tenday/l/Charing+Cross+England+United+Kingdom?canonicalCityId=07ea528d99503a0051045e120ba52b87855832c88a79311c675928eb5a385624"
+    },
+    {
+      "id": "6",
+      "name": "Contact us",
+      "link": "/contact",
+      "isRoute": true
+    }
+  ],
+  "announcements": [
+    {
+      "id": "1",
+      "personId": "1",
+      "content": "Greetings all, you are invited to join us for the Welcome Reception at the Castle (100 Holland Park Avenue, London Greater, London W11 4UA0 at 18:00. We hope tp see you there",
+      "date": "2024-05-16T03:00:00Z"
+    },
+    {
+      "id": "2",
+      "personId": "6",
+      "content": "Please join us in the Gunnel Suite tomorrow morning by 8:45 as the presentations begin promptly at 9:00",
+      "date": "2024-05-16T04:00:00Z"
+    },
+    {
+      "id": "3",
+      "personId": "6",
+      "content": "Please join us in the Gunnel Suite tomorrow morning by 8:45 as the presentations begin promptly at 9:00",
+      "date": "2024-05-16T05:00:00Z"
+    },
+    {
+      "id": "4",
+      "personId": "6",
+      "content": "Please meet in the lobby by 17:20 for dinner at the Tower of London. The busses are leaving promptly at 17:30",
+      "date": "2024-05-16T06:00:00Z"
+    },
+    {
+      "id": "5",
+      "personId": "6",
+      "content": "Please male your way to the busses for dinner at the Tower",
+      "date": "2024-05-16T07:00:00Z"
+    },
+    {
+      "id": "6",
+      "personId": "6",
+      "content": "Please meet in the lobby by 9:45 for the Saturday bus tour excursion. We will board the bus promptly at 10:00",
+      "date": "2024-05-16T08:00:00Z"
+    },
+    {
+      "id": "7",
+      "personId": "6",
+      "content": "Please meet in the lobby by 9:45 for the Saturday bus tour excursion. We will board the bus promptly at 10:00",
+      "date": "2024-05-16T08:30:00Z"
+    }
+  ],
+  "people": [
+    {
+      "id": "1",
+      "name": "Alex King",
+      "title": "Head of Delivery",
+      "company": "UNRVLD",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/41.jpg",
+      "country": ""
+    },
+    {
+      "id": "2",
+      "name": "Alexander Aptus",
+      "title": "Principal Engineer",
+      "company": "First Line Software",
+      "bio": "",
+      "photoUrl": "",
+      "country": "USA"
+    },
+    {
+      "id": "3",
+      "name": "Alexander Pozdniakov",
+      "title": "COO",
+      "company": "First Line Software",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/male/43.jpg",
+      "country": "Czechia",
+      "contactInformation": {
+        "email": "ap@1st-sw.com",
+        "mobile": "+420775725682"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Alexandra Dickinson",
+      "title": "Marketing Manager",
+      "company": "First Line Software",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/female/43.jpg",
+      "country": "USA"
+    },
+    {
+      "id": "5",
+      "name": "Alina Sokolova",
+      "title": "Marketing",
+      "company": "First Line Software",
+      "bio": "",
+      "photoUrl": "https://xsgames.co/randomusers/assets/avatars/female/44.jpg",
+      "country": "Montenegro"
+    },
+    {
+      "id": "6",
+      "name": "Rory Doolin",
+      "title": "Digital Marketing Manager",
+      "company": "First Line Software",
+      "bio": "",
+      "photoUrl": "",
+      "country": "Texas"
+    }
+  ],
+  "socialFeed": [
+    {
+      "id": "1",
+      "author": {
+        "id": "1",
+        "name": "Alex King",
+        "title": "",
+        "company": "Innovators Inc.",
+        "bio": "",
+        "photoUrl": "https://example.com/people/alex.jpg",
+        "country": ""
+      },
+      "content": "Excited to be attending the AI Summit in London!",
+      "timestamp": "2024-05-15T18:00:00Z",
+      "imageUrls": [
+        "https://example.com/images/pubnight.jpg"
+      ]
+    }
+  ],
+  "information": "### **Welcome!**\n  \n  It is our pleasure to welcome you. We are excited that you could join us here to network, attend educational sessions and enjoy our hospitality.\n  \n  We look forward to seeing you in the days ahead and wish you the best as you experience the planned events.\n  ###\n  ### **Quick Details**\n  * **Location**: Hilton Kensington\n  * **Address**: [179-199 Holland Park Avenue, London W11 4UL](https://maps.app.goo.gl/JsQqMUpMTLWrvfT69?g_st=com.google.maps.preview.copy)\n  * **Website**: [www.firstlinesoftware.com/summit](https://firstlinesoftware.com/summit/welcome/)\n\n  Breakfast will be served every morning in the WestEleven Restaurant (07:00 to 11:00)\n  ###\n  ### **How to use this app**\n  This app is designed to help you enjoy the summit and be efficient communication tool. View daily events, connect with others, post photos and stay informed.\n  \n  Thank you for coming and we hope this app makes your experience memorable.\n  ",
+  "locations": [
+    {
+      "id": "1",
+      "name": "Hilton Kensington",
+      "linkMap": "https://maps.app.goo.gl/a258Pp9bfXi25cS26",
+      "link": "https://www.hilton.com/en/hotels/lhrhitw-hilton-london-kensington/"
+    },
+    {
+      "id": "2",
+      "name": "The Castle at Holland Park",
+      "linkMap": "https://maps.app.goo.gl/ZRMisKXX4CGX5tDy5",
+      "link": "https://www.castlehollandpark.co.uk",
+      "linkAddress": "100 Holland Park Avenue London Greater, London W11 4UA, United Kingdom"
+    },
+    {
+      "id": "3",
+      "name": "Hilton Kensington - Lobby"
+    },
+    {
+      "id": "4",
+      "name": "The Tower of London"
+    },
+    {
+      "id": "6",
+      "name": "The Admiralty",
+      "link": "https://www.admiraltytrafalgar.co.uk/"
+    }
+  ],
+  "contactUs": "## Contact us\n#### \n#### If you have questions please email us to:\n[hello@firstlinesoftware.com](mailto:hello@firstlinesoftware.com)",
+  "feedbackLink": "https://docs.google.com/forms/u/3/d/e/1FAIpQLSd4ooQZayiHSjR8l9Rz5OIIe2SC4LFSvQuzZKRekQE4cT78rA/viewform"
+}
